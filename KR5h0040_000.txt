@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 03:04:41.164068
+# -*- mode: mandoku-view -*-
 #+TITLE: 儒門崇理折衷堪輿完孝錄
-#+PROPERTY: DZID  DZ1471
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，35—580 八卷 續道藏
+#+DATE: 2015-08-29 03:04:48
+#+PROPERTY:  LASTPB <PB KR5h0040_SJB_008-350667c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶<md:KR5h0040_HFL_008-021b>¶¶¶¶¶¶¶¶¶¶¶
+
