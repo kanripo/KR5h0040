@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 03:04:41.164068
-#+TITLE: 儒門崇理折衷堪輿完孝錄
-#+PROPERTY: DZID  DZ1471
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，35—580 八卷 續道藏
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
